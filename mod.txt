@@ -1,0 +1,26 @@
+{
+    "name": "DrillFix",
+    "description": "Auto repair drills, saws, etc.",
+    "author": "Code by Uziel2021, interact list by Matreik",
+    "contact": "https://www.unknowncheats.me/forum/payday-2-a/",
+    "version": "3.0",
+    "blt_version": 2,
+    "priority": 100,
+    "hooks": [
+        {
+            "hook_id": "lib/managers/menumanager",
+            "script_path": "delayedcalls.lua"
+        }
+    ],
+    "keybinds": [
+        {
+            "keybind_id": "___autofixdevices",
+            "name": "Toggle Auto Fixer",
+            "description": "-",
+            "script_path": "autofixer.lua",
+            "run_in_menu": false,
+            "run_in_game": true,
+            "localized": false
+        }
+    ]
+}
