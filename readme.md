@@ -1,4 +1,4 @@
-__Credits to the BLT developer for the original DelayedCalls class__
+__Credits to the BLT developers for the original DelayedCalls class__
 
 DrillFixer and BetterDelayedCalls classes by [Uziel2021](https://www.unknowncheats.me/forum/members/1077012.html)
 
